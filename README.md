@@ -1,7 +1,4 @@
 # Data-augmentation
-To generate the dataset below command used.
-python generate_images.py --image your_floder_path/_image_name.jpg --output  floder_to_save_image
-
 To run this code
 python generate_images.py --image input_images/1.jpeg --output log
 
