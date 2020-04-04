@@ -6,5 +6,4 @@ Example:
 python generate_images.py --image cat.jpg --output generated_dataset/cats
 
 
-For Data Augmentation the default value should be 5 to 10, For one image other wise the dataset be come wrong (or) error in the dataset.
-the accuracy will become very low.
+For Data Augmentation the default value should be 5 to 10, For one image other wise the dataset become wrong. The accuracy will become very low.
