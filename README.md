@@ -1,6 +1,6 @@
 # Data-augmentation
 To generate the dataset below command used.
-python generate_images.py --image _your_floder_path/_image_name.jpg --output _folder_to_save_augmented_images
+python generate_images.py --image _your_floder_path/_image_name.jpg --output  _floder_to_save_image
 
 Example:
 python generate_images.py --image cat.jpg --output generated_dataset/cats
